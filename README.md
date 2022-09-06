@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/Ok3nw4/count.svg)
 
 - ![Profile views](https://gpvc.arturio.dev/Ok3nw4)
-- [![GitHub followers](https://img.shields.io/github/followers/Naim75o.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Ok3nw4?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/Ok3nw4.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Ok3nw4?tab=followers)
 
 > GITHUB STATES :
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
-![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+![Alt text](https://github.com/Ok3nw4/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <p align="center">
 <a href="https://github.com/Ok3nw4/JAVIS"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ok3nw4&repo=JAVIS&theme=vision-friendly-dark"></a>
@@ -87,11 +87,11 @@ Here are some ideas to get you started:
 
  pip2 install bs4
  
- git clone https://github.com/Ok3nw4/JAVIS
+ git clone https://github.com/Ok3nw4/FREE
 
  cd JAVIS
 
- python JAVIS.py
+ python FREE.py
 ```
 
  ❤️ Thanks For Using My Tools ❤️
