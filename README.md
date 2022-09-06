@@ -89,7 +89,7 @@ Here are some ideas to get you started:
  
  git clone https://github.com/Ok3nw4/FREE
 
- cd JAVIS
+ cd FREE
 
  python FREE.py
 ```
