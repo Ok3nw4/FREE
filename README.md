@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![Alt text](https://github.com/Ok3nw4/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <p align="center">
-<a href="https://github.com/Ok3nw4/FREE"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ok3nw4&repo=JAVIS&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Ok3nw4/FREE"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ok3nw4&repo=FREE&theme=vision-friendly-dark"></a>
 
 ## Install on Termux
 ```
